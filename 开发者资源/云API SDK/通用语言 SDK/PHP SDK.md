@@ -142,6 +142,9 @@ catch(TencentCloudSDKException $e) {
 
 您可以在 [github examples](https://github.com/tencentcloud/tencentcloud-sdk-php/tree/master/examples) 目录下找到更详细的示例。
 
+####miaotest
+zhelis w 
+
 ## 相关配置
 
 ### 代理
